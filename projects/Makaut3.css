@@ -1,0 +1,374 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#makautlogo{
+    margin-left: 5px;
+    height: 50px;
+    width: 318px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#top{
+    height: 55px;
+    display: flex;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#top h3{
+    margin-left: 970px;
+    margin-top: 17px;
+    font-family: sans-serif;
+    color:#707379;
+    font-size: 19px;
+    font-weight: 540;
+}
+#border1{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 3px;
+    background-color: skyblue;
+}
+#border2{
+    height: 40px;
+    background-color: #434547;
+}
+#box{
+    margin-left: 20px;
+    padding-top: 20px;
+    /* margin-top: 20px; */
+}
+#student{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    margin-right: 10px;
+    background-image: linear-gradient(to left, rgb(219, 219, 193),rgb(129, 124, 105));
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a1{
+    display: flex;
+    flex-direction: column;
+}
+#a1 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#a1 P{
+    margin-top: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#student img{
+    background-color: rgb(98, 101, 101);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#admini{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    margin-right: 10px;
+    background-image: linear-gradient(to right, rgb(146, 122, 33),rgb(203, 178, 67)80%  );
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a2{
+    display: flex;
+    flex-direction: column;
+}
+#a2 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#a2 P{
+    margin-top: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#admini img{
+    background-color: rgb(227, 177, 91);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#enquery{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    margin-right: 10px;
+    background-image: linear-gradient(to right, rgb(172, 13, 13),rgb(227, 129, 16)80%);
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a3{
+    display: flex;
+    flex-direction: column;
+}
+#a3 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+#a3 P{
+    margin-top: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#enquery img{
+    background-color: rgb(223, 66, 55);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#dept{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    background-image: linear-gradient(to right, silver,white 80%);
+    /* border: 1px solid rgb(219, 214, 214); */
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a4{
+    display: flex;
+    flex-direction: column;
+}
+#a4 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(80, 78, 78);
+}
+#a4 P{
+    margin-top: 0px;
+    color: rgb(132, 128, 128);
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#dept img{
+    background-color: rgb(251, 251, 251);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#result{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    margin-right: 10px;
+    background-image: linear-gradient(to right,rgb(0, 195, 255),rgba(136, 243, 255, 0.81));
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a5{
+    display: flex;
+    flex-direction: column;
+}
+#a5 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+#a5 P{
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#result img{
+    background-color: rgb(97, 180, 218);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#help{
+    display: flex;
+    height: 65px;
+    width: 350PX;
+    border-radius: 2px;
+    background-image: linear-gradient(to right, silver,white 80%);
+    /* border: 1px solid rgb(219, 214, 214); */
+    filter: drop-shadow(0 0 0.10rem);
+}
+#a6{
+    display: flex;
+    flex-direction: column;
+}
+#a6 h4{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(80, 78, 78);
+}
+#a6 P{
+    margin-top: 0px;
+    color: rgb(132, 128, 128);
+    font-family: sans-serif;
+    font-size:10px ;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+#help img{
+    width: 65px;
+    background-color: rgb(47, 175, 234);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#box{
+    height: 150px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:baseline;
+    gap: 20px;
+    background-color: rgb(239, 239, 239);
+}
+#box2{
+    height: 80px;
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    background-color: white;
+}
+#instraction{
+    height: 30px;
+    width: 600px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 5px;
+    display: flex;
+    padding-top: 10px;
+    background-color: rgb(239, 239, 239);
+}
+#instraction i{
+    margin-left: 20px;
+    margin-right: 6px;
+}
+#instraction h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+#box3{
+    height: 680px;
+    width: 350px;
+    /* padding-top: 20px; */
+    border: 1px solid silver;
+    margin-top: 20px;
+    border-radius: 2px;
+    background-color: white;
+}
+#hub{
+    display: flex;
+    gap: 30px;
+}
+#helpdesk{
+    height: 30px;
+    background-color: rgb(239, 239, 239);
+    display: flex;
+    padding-top: 10px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 2px;
+}
+#helpdesk i{
+    margin-left: 20px;
+    margin-right: 6px;
+}
+#helpdesk h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+#box3 h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #444444;
+    margin-bottom: 0%;
+}
+#box3 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-top: 8px;
+    color: #444444;
+}
+#box3 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 12px;
+}
+#box3 hr{
+    color: #d1cbcb;
+    font-size: 12px;
+    height: 0.5px;
+}
+#main{
+    background-color: rgb(239, 239, 239);
+    height: 1050px;
+}
+#foot{
+    height: 46px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(155, 17, 17);
+    color: white;
+    margin-top: 0px;
+    position:fixed;
+    bottom: 0;
+}
+#foot h3{
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+#foot span{
+    color: #5DB2FF;
+}
+#student:hover{
+    background-image: linear-gradient(to right, rgb(219, 219, 193),rgb(129, 124, 105));
+}
+#admini:hover{
+    background-image: linear-gradient(to left, rgb(146, 122, 33),rgb(203, 178, 67)80%  );
+}
+#enquery:hover{
+    background-image: linear-gradient(to left, rgb(172, 13, 13),rgb(227, 129, 16)80%);
+}
+#dept:hover{
+    background-image: linear-gradient(to left, silver,white 80%);
+}
+#result:hover{
+    background-image: linear-gradient(to left,rgb(0, 195, 255),rgba(136, 243, 255, 0.81));
+}
+#help:hover{
+    background-image: linear-gradient(to left, silver,white 80%);
+}

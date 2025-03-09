@@ -1,0 +1,415 @@
+#tpmargin{
+    height: 5px;
+    background-color: cornflowerblue;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#head{
+    height: 90px;
+    display: flex;
+}
+
+#logo1{
+    height:85px;
+    margin: none;
+    padding:none;
+    margin-left: 190px;
+}
+
+#makaut{
+    height: 28px;
+    width: 185px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    color: white;
+    margin-left: 370px;
+    
+}
+#umb{
+    color: white;
+    background-color: cornflowerblue;
+    border: none;
+    margin-left: 14px;
+    margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#dwmargin{
+    display: flex;
+    margin-top: none;
+    padding-top: none;
+}
+
+#dwmargin1{
+    height: 5px;
+    width: 490px;
+    background-color: orange;
+}
+
+#dwmargin2{
+    height: 5px;
+    width: 1160.600px;
+    background-color: cornflowerblue;
+}
+
+#collegepic{
+    height: 215px;
+    width: 1140px;
+    margin-left: 190px;
+    margin-top: 1px;
+}
+
+#area{
+    height: 110px;
+    width: 1140px;
+    margin-left: 190px;
+    display: flex;
+    gap: 30px
+    
+}
+
+.aarea{
+    border-top: 4px solid cornflowerblue;
+    border-bottom: 5px solid rgb(79, 11, 79);
+    height: 90px;
+    width: 360px;
+    margin-top: 9px;
+    background-image: url(bg.jpg);
+    background-size: contain;
+}
+
+.aarea h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20.5px;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    padding-bottom: none;
+    font-size: 24.5px;
+    word-spacing: 2px;
+    color: rgb(67, 64, 64);
+}
+
+.aarea ul li{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 90px;
+}
+.aarea ul a{
+    text-decoration: none;
+}
+#hub1{
+    height: 300px;
+    width: 750px;
+    border:0.5px solid white;
+    border-top: none;
+    background-color: rgb(192, 214, 216);
+    filter: drop-shadow(0 0 0.10rem black);
+    margin-left: 190px;
+}
+
+#general h3{
+    height: 25px;
+    width: 100px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color:rgb(33, 80, 103);
+}
+
+#line{
+    height: 0.5px;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#apply{
+    height: 400px;
+    width: 750px; 
+}
+
+.box{
+    height: 100px;
+    width: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    align-items: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    background-color: rgb(13, 152, 186);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box h4{
+    padding-top: 0px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+
+.box button{
+    height: 30px;
+    width: 180px;
+    border-radius: 12px;
+    margin-top: 9px;
+    border: 0.5px solid rgb(8, 96, 134);
+    background-color: rgb(8, 96, 134);
+    color: white;
+}
+
+.useone {
+    height: 100px;
+    width: 750px;
+    display: flex;
+    gap: 30px;
+}
+
+.usetwo {
+    height: 100px;
+    width: 750px;
+    display: flex;
+    margin-top: 20px;
+}
+
+#boxone {
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+#boxtwo {
+    margin-left: 0px;
+    background-color: rgb(0,84,118);
+}
+#boxthree {
+    margin-left: 0px;
+    margin-right: 20px;
+    background-color: rgb(239, 149, 14);
+}
+#box4{
+    margin-left: 20px;
+    width: 215.262px;
+    background-color: rgb(49, 176, 157);
+}
+#box5{
+    width: 215.262px;
+    margin-left: 30px;
+    background-color: rgba(71, 16, 123, 0.619);
+}
+#boxone button{
+    background-color: rgb(13, 86, 86);
+    font-weight: bold;
+}
+#boxtwo button{
+    background-color: rgb(5, 61, 69);
+    border-radius: rgb(5, 61, 69);
+    margin-top: 10px;
+    font-weight: bold;
+}
+#boxthree button{
+    background-color: rgb(194, 103, 6);
+    border-color: rgb(194, 103, 6);
+    margin-top: 10px;
+    font-weight: bold;
+}
+#box4 button{
+    background-color: rgb(29, 133, 117);
+    border-color: rgb(29, 133, 117);
+    font-weight: bold;
+}
+#box5 button{
+    background-color: rgba(37, 5, 66, 0.505);
+    border-color: rgba(70, 11, 126, 0.825);
+    font-weight: bold;
+}
+#boxtwo h4{
+    margin-top: 20px;
+    font-size: 13px;
+    word-spacing: 3px;
+}
+#boxthree h4{
+    margin-top: 20px;
+    font-size: 12px;
+}
+#hub2{
+    height: 190px;
+    width: 750px;
+    background-color: rgb(192, 214, 216);
+    filter: drop-shadow(0 0 0.10rem black);
+    margin-left: 190px;
+    margin-top: 15px;
+    border:0.5px solid white;
+    border-top: none;
+}
+#pre{
+    height: 25px;
+    width: 300px;
+    padding-top: 5px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color:rgb(33, 80, 103);
+}
+#line1{
+    height: 0.5px;
+    background-color: black;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#pre h3{
+    height: 25px;
+    width: 300px;
+    padding-top: 2px;
+    padding-left: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color:rgb(33, 80, 103);
+}
+#use3{
+    height: 100px;
+    width: 750px;
+    display: flex;
+    margin-top: 13px;
+}
+#box6{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 215.262px;
+    background-color: rgba(7, 56, 61, 0.871);
+}
+#box7{
+    margin-top: 0px;
+    width: 215.262px;
+    margin-left: 30px;
+    background-color: rgba(7, 56, 61, 0.871);
+}
+#box6 h4{
+    margin-top: 20px;
+    font-size: 13px;
+}
+#box7 h4{
+    margin-top: 20px;
+    font-size: 12px;
+}
+#box6 button{
+    background-color: rgba(5, 36, 40, 0.693);
+    border-color: rgba(5, 36, 40, 0.693);
+    font-weight: bold;
+}
+#box7 button{
+    background-color: rgba(5, 36, 40, 0.693);
+    border-color: rgba(5, 36, 40, 0.693);
+    font-weight: bold;
+}
+#hub3{
+    height: 80px;
+    width: 750px;
+    background-color: rgb(192, 214, 216);
+    filter: drop-shadow(0 0 0.10rem black);
+    margin-left: 190px;
+    margin-top: 12px;
+    border:0.5px solid white;
+    border-top: none;
+}
+#post{
+    height: 25px;
+    width: 300px;
+    padding-top: 5px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color:rgb(33, 80, 103);
+}
+#post h3{
+    height: 25px;
+    width: 300px;
+    padding-top: 2px;
+    padding-left: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color:rgb(33, 80, 103);
+}
+#line2{
+    height: 0.5px;
+    background-color: black;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#hub4{
+    height: 800px;
+    width: 360px;
+    margin-top: 20px;
+    background-color: rgb(192, 214, 216);
+    filter: drop-shadow(0 0 0.10rem black);
+    border:0.5px solid white;
+    border-top: none;
+}
+#hub4 ul{
+    height: 650px;
+    width: 320px;
+    overflow-y: scroll;
+    scrollbar-width:thin;
+    scroll-margin: 10px;
+    scroll-padding-right: 10px;
+}
+#full{
+    height: 820px;
+    width: 750px;
+    display: flex;
+    gap:30px;
+}
+#line3{
+    height: 0.5px;
+    background-color: black;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#hub4 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 72, 93);
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+#la{
+    margin-bottom: none;
+    margin-top: 10px;
+}
+#hub4 li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+    font-weight:normal;
+}
+#hub4 p{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#cr{
+    margin-top: 20px;
+    height: 30px;
+    background-color: rgb(19, 132, 169);
+    color: white;
+}
+#cr h4{
+    margin-left: 1100px;
+    margin-top: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif;
+}
